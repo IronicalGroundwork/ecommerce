@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086971406681",
+    "project_id": "ecommerce-f0c3b",
+    "storage_bucket": "ecommerce-f0c3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086971406681:android:954d5fa9a9cd83648c8448",
+        "android_client_info": {
+          "package_name": "com.ironical_groundwork_team.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086971406681-6kpfj2p3ulhun28c608d9a74dl3a7g7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDkkvMu7Kpvua-D7FhEh9X2d2tchEGAVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086971406681-6kpfj2p3ulhun28c608d9a74dl3a7g7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
